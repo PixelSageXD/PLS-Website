@@ -16,7 +16,8 @@ const config = {
 		  jekyll: false
 		})
 	},
-	base: "/Pixels-Life-Series"
+	base: "/Pixels-Life-Series",
+	preprocess: [vitePreprocess()]
 };
 
 export default config;

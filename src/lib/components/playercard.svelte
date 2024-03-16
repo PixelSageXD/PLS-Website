@@ -4,6 +4,9 @@
     export var nickname = "";
     export var blurb = "";
 
+    /**
+	 * @param {number} lives
+	 */
     function getPlayerColour(lives) {
         if (lives === 4) {
             return "darkGreenLife"
