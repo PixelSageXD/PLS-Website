@@ -3,7 +3,7 @@
 </script>
 
 <div class="text-center logo mb-10">
-    <img src="third_life_white.svg" class="size-1/5 m-auto">
+    <img src="third_life_white.svg" class="size-1/5 m-auto" alt="third life logo">
   </div>
   <br>
   <div class="info">
