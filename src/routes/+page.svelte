@@ -8,7 +8,7 @@ This website has been made to show the
 people included in the many series.
 </p>
 <div class="cardGrid m-10">
-    <a href="/PLS-Website/thirdlife">
+    <a href="/thirdlife">
       <button class="p-5">
         <img src="third_life_white.svg" class="size-2/3 m-auto">
         <p class="text-center mt-2 bungee">Third Life</p>
