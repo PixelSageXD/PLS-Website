@@ -1,5 +1,5 @@
 <script>
-    import {TeamCard, PlayerCard} from '$lib'
+    import {TeamCard, PlayerCard} from '$lib/index'
 </script>
 
 <div class="text-center logo mb-10">
