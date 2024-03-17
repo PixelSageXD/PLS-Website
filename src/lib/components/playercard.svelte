@@ -22,15 +22,15 @@
     }
 </script>
 
-<div class="playerCard">
+<div class={"playerCard"}>
     <img
       src={
         "players/" + player + ".png"
       }
-      class="h-36 mx-auto mt-5 mb-10 drop-shadow-[0_35px_35px_rgba(0,0,0,0.6)]"
+      class={"h-36 mx-auto mt-5 mb-10 drop-shadow-[0_35px_35px_rgba(0,0,0,0.6)] " + getPlayerColour(lives)}
       alt={nickname}
     >
-    <h2 class={"bungee text-2xl text-center "+getPlayerColour(lives)}>
+    <h2 class={"bungee text-2xl text-center " + getPlayerColour(lives)}>
       <strong>{nickname}</strong>
     </h2>
     <h5 class="text-center">({player})</h5>

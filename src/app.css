@@ -23,11 +23,11 @@
 }
 
 .greenLife {
-	color: rgb(92, 237, 92);
+	color: rgb(0, 255, 0);
 }
 
 .yellowLife {
-	color: rgb(253, 177, 36);
+	color: rgb(255, 225, 0);
 }
 
 .redLife {
@@ -36,6 +36,23 @@
 
 .noLives {
 	color: rgb(144, 159, 172);
+}
+
+img.noLives {
+    filter: none;
+    -webkit-filter: grayscale(100%);
+    -moz-filter:    grayscale(100%);
+    -ms-filter:     grayscale(100%);
+    -o-filter:      grayscale(100%);
+    transition: all 500ms ease;
+}
+
+img.noLives:hover {
+    filter: none;
+    -webkit-filter: grayscale(0%);
+    -moz-filter:    grayscale(0%);
+    -ms-filter:     grayscale(0%);
+    -o-filter:      grayscale(0%);
 }
 
 :root {

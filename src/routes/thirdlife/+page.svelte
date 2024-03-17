@@ -1,5 +1,51 @@
 <script>
-    import {TeamCard, PlayerCard} from '$lib/index'
+    import Playercard from '$lib/components/playercard.svelte';
+	import Teamcard from '$lib/components/teamcard.svelte';
+    import {TeamCard, PlayerCard, players} from '$lib/index'
+
+    const Lives = [
+        {name:"PixelSageXD",
+        lives:3},
+        {name:"FeebleBrush162",
+        lives:3},
+        {name:"NexoJohn",
+        lives:3},
+        {name:"Tofu_Beans",
+        lives:3},
+        {name:"oblivizin",
+        lives:3},
+        {name:"SaviMatteo2810",
+        lives:3},
+        {name:"Sherbiscute",
+        lives:2},
+        {name:"RtxEric",
+        lives:2},
+        {name:"wolfiegames101",
+        lives:1},
+        {name:"Bosph",
+        lives:4},
+        {name:"FrostyBoi61",
+        lives:0},
+        {name:"Daedreamerz",
+        lives:3},
+        {name:"_just_Andi_",
+        lives:2}
+    ]
+
+    const Teams = [
+        {teamName: "The Transformers", players:["Tofu_Beans","oblivizin"]},
+        {teamName: "The Introverts", players:["wolfiegames101","RtxEric","Sherbiscute","SaviMatteo2810"]},
+        {teamName: "Last Minute Alliance", players:["FrostyBoi61","Daedreamerz","_just_Andi_"]},
+        {teamName: "The Businessmen", players:["PixelSageXD","FeebleBrush162","NexoJohn"]}
+    ]
+
+    /**
+	 * @param {string} playerName
+	 */
+    function getData(playerName) {
+        let player = Lives.find(player => player.name === playerName);
+        return player
+    }
 </script>
 
 <div class="text-center logo mb-10">
@@ -15,43 +61,17 @@
   </div>
 
   <div class="playerGrid m-10">
-    <PlayerCard player="PixelSageXD" nickname="Pixel" lives={3}></PlayerCard>
-    <PlayerCard player="FeebleBrush162" nickname="Ben" lives={3}></PlayerCard>
-    <PlayerCard player="NexoJohn" nickname="John" lives={3}></PlayerCard>
-    <PlayerCard player="Tofu_Beans" nickname="Daniella" lives={3}></PlayerCard>
-    <PlayerCard player="oblivizin" nickname="Nick" lives={3}></PlayerCard>
-    <PlayerCard player="SaviMatteo2810" nickname="Savi" lives={3}></PlayerCard>
-    <PlayerCard player="Sherbiscute" nickname="Rei" lives={3}></PlayerCard>
-    <PlayerCard player="RtxEric" nickname="Eric" lives={3}></PlayerCard>
-    <PlayerCard player="wolfiegames101" nickname="Wolfie" lives={4}></PlayerCard>
-    <PlayerCard player="Bosph" nickname="Bosph" lives={4}></PlayerCard>
-    <PlayerCard player="FrostyBoi61" nickname="Alena" lives={0}></PlayerCard>
-    <PlayerCard player="Daedreamerz" nickname="Luna" lives={3}></PlayerCard>
-    <PlayerCard player="_just_Andi_" nickname="Andy" lives={3}></PlayerCard>
+    {#each Lives as {name,lives}}
+        <PlayerCard player="{name}" nickname="{players[name]["nickname"]}" lives={lives}></PlayerCard>
+    {/each}
   </div>
 
   <div class="teams">
-    <TeamCard teamName="The Transformers">
-      <PlayerCard player="Tofu_Beans" nickname="Daniella" lives={3}></PlayerCard>
-      <PlayerCard player="oblivizin" nickname="Nick" lives={3}></PlayerCard>
-    </TeamCard>
-
-    <TeamCard teamName="The Introverts">
-      <PlayerCard player="wolfiegames101" nickname="Wolfie" lives={4}></PlayerCard>
-      <PlayerCard player="RtxEric" nickname="Eric" lives={3}></PlayerCard>
-      <PlayerCard player="Sherbiscute" nickname="Rei" lives={3}></PlayerCard>
-      <PlayerCard player="SaviMatteo2810" nickname="Savi" lives={3}></PlayerCard>
-    </TeamCard>
-
-    <TeamCard teamName="Last Minute Alliance">
-      <PlayerCard player="FrostyBoi61" nickname="Alena" lives={0}></PlayerCard>
-      <PlayerCard player="Daedreamerz" nickname="Luna" lives={3}></PlayerCard>
-      <PlayerCard player="_just_Andi_" nickname="Andy" lives={3}></PlayerCard>
-    </TeamCard>
-
-    <TeamCard teamName="The Businessmen">
-      <PlayerCard player="PixelSageXD" nickname="Pixel" lives={3}></PlayerCard>
-      <PlayerCard player="FeebleBrush162" nickname="Ben" lives={3}></PlayerCard>
-      <PlayerCard player="NexoJohn" nickname="John" lives={3}></PlayerCard>
-    </TeamCard>
+    {#each Teams as team}
+        <Teamcard teamName={team.teamName}>
+            {#each team.players as player}
+                <PlayerCard player={player} nickname={players[player]["nickname"]} lives={getData(player)?.lives}></PlayerCard>
+            {/each}
+        </Teamcard>
+    {/each}
   </div>
