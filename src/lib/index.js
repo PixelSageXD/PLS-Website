@@ -5,7 +5,7 @@ export var players = {
 	PixelSageXD: { avatarPath: 'PixelSageXD', nickname: 'Pixel' },
 	FeebleBrush162: { avatarPath: 'FeebleBrush162', nickname: 'Ben' },
 	NexoJohn: { avatarPath: 'NexoJohn', nickname: 'John' },
-	Tofu_Beans: { avatarPath: 'Tofu_Beans', nickname: 'Dani' },
+	Tofu_Beans: { avatarPath: 'Tofu_Beans', nickname: 'no name ‼️' },
 	oblivizin: { avatarPath: 'oblivizin', nickname: 'Nick' },
 	SaviMatteo2810: { avatarPath: 'SaviMatteo2810', nickname: 'Savi' },
 	Sherbiscute: { avatarPath: 'Sherbiscute', nickname: 'Rei' },
