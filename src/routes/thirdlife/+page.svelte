@@ -5,9 +5,9 @@
 
     const Lives = [
         {name:"PixelSageXD",
-        lives:4},
-        {name:"FeebleBrush162",
         lives:3},
+        {name:"FeebleBrush162",
+        lives:2},
         {name:"NexoJohn",
         lives:0},
         {name:"Tofu_Beans",
@@ -17,19 +17,19 @@
         {name:"SaviMatteo2810",
         lives:2},
         {name:"Sherbiscute",
-        lives:2},
+        lives:3},
         {name:"RtxEric",
-        lives:1},
+        lives:0},
         {name:"wolfiegames101",
-        lives:1},
+        lives:0},
         {name:"Bosph",
-        lives:4},
+        lives:2},
         {name:"FrostyBoi61",
         lives:0},
         {name:"Daedreamerz",
-        lives:3},
+        lives:0},
         {name:"_just_Andi_",
-        lives:2}
+        lives:0}
     ]
 
     const Teams = [
