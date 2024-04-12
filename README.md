@@ -1,6 +1,8 @@
 # PLS Website
 This is the source code for the [Pixel's Life Series Website](https://pixels-life-series.netlify.app)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9984488-7147-4f13-968b-c04bdc0ea425/deploy-status)](https://app.netlify.com/sites/pixels-life-series/deploys)
+
 # How to update
 The player information is stored in [src/lib/index.js](https://github.com/TofuBeans/PLS-Website/blob/main/src/lib/index.js)
 This information contains *all* the players involved in the series. If someone is already in the dictionary then **DO NOT** add their data again.
