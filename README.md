@@ -10,3 +10,8 @@ As for the individual Life Series', the lives data is stored in each series' res
 # Adding a new series
 When you want to add a new page for a series, just copy the route, change the name and then directly edit the information inside the +page.svelte.
 All assets for the series logos must be put in the static folder in order to work properly.
+
+# Misc Info
+When the website builds, it will say the build failed, however as long as the following has a tick, it should work properly.
+
+![](https://i.imgur.com/xcU6QVZ.png)
