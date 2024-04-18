@@ -58,7 +58,7 @@
   </h2>
   <h2 class="text-xl">Start Date: 24th Feb 2024</h2>
   <h2 class="text-xl">End Date: N/A</h2>
-  <h2 class="text-x1">Winner: N/A</h2>
+  <h1 class="text-x1">Winner: N/A</h1>
   </div>
 
   <div class="playerGrid m-10">
