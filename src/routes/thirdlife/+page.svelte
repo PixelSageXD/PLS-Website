@@ -5,19 +5,19 @@
 
     const Lives = [
         {name:"PixelSageXD",
-        lives:3},
-        {name:"FeebleBrush162",
         lives:2},
+        {name:"FeebleBrush162",
+        lives:1},
         {name:"NexoJohn",
         lives:0},
         {name:"Tofu_Beans",
-        lives:3},
+        lives:2},
         {name:"oblivizin",
-        lives:3},
+        lives:2},
         {name:"SaviMatteo2810",
         lives:2},
         {name:"Sherbiscute",
-        lives:3},
+        lives:2},
         {name:"RtxEric",
         lives:0},
         {name:"wolfiegames101",
@@ -58,6 +58,7 @@
   </h2>
   <h2 class="text-xl">Start Date: 24th Feb 2024</h2>
   <h2 class="text-xl">End Date: N/A</h2>
+  <h2 class="text-xl">Winner: N/A</h2>
   </div>
 
   <div class="playerGrid m-10">
