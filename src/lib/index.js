@@ -1,5 +1,6 @@
 export { default as PlayerCard } from './components/playercard.svelte';
 export { default as TeamCard } from './components/teamcard.svelte';
+export { default as Statcard} from '.components/statcard.svelte'
 
 export var players = {
 	PixelSageXD: { avatarPath: 'PixelSageXD', nickname: 'Pixel' },
