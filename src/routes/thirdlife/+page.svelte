@@ -5,25 +5,25 @@
 
     const Lives = [
         {name:"PixelSageXD",
-        lives:2},
+        lives:0},
         {name:"FeebleBrush162",
-        lives:1},
+        lives:0},
         {name:"NexoJohn",
         lives:0},
         {name:"Tofu_Beans",
         lives:0},
         {name:"oblivizin",
-        lives:2},
+        lives:0},
         {name:"SaviMatteo2810",
         lives:0},
         {name:"Sherbiscute",
-        lives:2},
+        lives:0},
         {name:"RtxEric",
         lives:0},
         {name:"wolfiegames101",
         lives:0},
         {name:"Bosph",
-        lives:2},
+        lives:0},
         {name:"FrostyBoi61",
         lives:0},
         {name:"Daedreamerz",
@@ -57,8 +57,8 @@
     <strong>Info:</strong>
   </h2>
   <h2 class="text-xl">Start Date: 24th Feb 2024</h2>
-  <h2 class="text-xl">End Date: N/A</h2>
-  <h2 class="text-xl">Winner: N/A</h2>
+  <h2 class="text-xl">End Date: 4th May 2024</h2>
+  <h2 class="text-xl">Winner: Ben (FeebleBrush162)</h2>
   </div>
 
   <div class="playerGrid m-10">
