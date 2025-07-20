@@ -7,51 +7,62 @@
     const Lives = [
         {name:"pixlsage",
         lives:0,
-        placement:"5th"},
+        placement:"2nd"},
         {name:"FeebleBrush162",
         lives:0,
-        placement:"1st"},
+        placement:"15th"},
         {name:"Stack_o_nhoj",
         lives:0,
-        placement:"12th"},
-        {name:"Tofu_Beans",
-        lives:0,
-        placement:"7th"},
-        {name:"oblivizin",
-        lives:0,
-        placement:"4th"},
+        placement:"8th"},
         {name:"SaviMatteo2810",
         lives:0,
         placement:"6th"},
         {name:"Sherbiscute",
         lives:0,
         placement:"3rd"},
-        {name:"RtxEric",
-        lives:0,
-        placement:"8th"},
-        {name:"wolfiegames101",
-        lives:0,
-        placement:"11th"},
         {name:"Bosph",
         lives:0,
-        placement:"2nd"},
-        {name:"r0cie",
+        placement:"5th"},
+        {name:"Genius_3",
+        lives:0,
+        placement:"1st"},
+        {name:"MxPotoo",
+        lives:0,
+        placement:"7th"},
+        {name:"BloxySaurus",
         lives:0,
         placement:"13th"},
-        {name:"Daedreamerz",
+        {name:"bopperollz",
+        lives:0,
+        placement:"9th"},
+        {name:"HokiOki",
+        lives:0,
+        placement:"14th"},
+        {name:"Chrome559",
+        lives:0,
+        placement:"16th"},
+        {name:"myangu",
+        lives:0,
+        placement:"12th"},
+        {name:"derpishman1",
         lives:0,
         placement:"10th"},
-        {name:"_just_Andi_",
+        {name:"tyy88",
         lives:0,
-        placement:"9th"}
+        placement:"17th"},
+        {name:"Pawnair",
+        lives:0,
+        placement:"11th"},
+        {name:"MadlyJapanese",
+        lives:0,
+        placement:"4th"},
     ]
 
     const Teams = [
-        {teamName: "The Transformers", players:["Tofu_Beans","oblivizin"]},
-        {teamName: "The Introverts", players:["wolfiegames101","RtxEric","SaviMatteo2810","Sherbiscute"]},
-        {teamName: "Last Minute Alliance", players:["r0cie","Daedreamerz","_just_Andi_"]},
-        {teamName: "The Businessmen", players:["pixlsage","FeebleBrush162","Stack_o_nhoj"]},
-        {teamName: "The Widows (Session 8+)", players:["oblivizin","Sherbiscute","SaviMatteo2810"]}
+        {teamName: "Safe Haven Alliance", players:["pixlsage","FeebleBrush162","Genius_3","MxPotoo","HokiOki"]},
+        {teamName: "Southern Chaos", players:["Sherbiscute","SaviMatteo2810","CHrome559","myangu","Pawnair"]},
+        {teamName: "Tender Defenders", players:["derpishman1","tyy88"]},
+        {teamName: "The Irish Cartel", players:["Stack_o_nhoj","Bosph","MadlyJapanese"]}
     ]
 
     /**
@@ -64,16 +75,16 @@
 </script>
 
 <div class="text-center logo mb-10">
-    <img src="thirdlife_outlined.svg" class="size-1/5 m-auto" alt="third life logo">
+    <img src="lastlife_outlined.svg" class="size-1/5 m-auto" alt="last life logo">
   </div>
   <br>
   <div class="info">
   <h2 class="text-4xl">
     <strong>Info:</strong>
   </h2>
-  <h2 class="text-xl">Start Date: 24th Feb 2024</h2>
-  <h2 class="text-xl">End Date: 4th May 2024</h2>
-  <h2 class="text-xl">Winner: Ben (FeebleBrush162)</h2>
+  <h2 class="text-xl">Start Date: 26th Oct 2024</h2>
+  <h2 class="text-xl">End Date: 30th Nov 2024</h2>
+  <h2 class="text-xl">Winner: Genius (Genius_3)</h2>
   </div>
 
   <div class="playerGrid m-10">

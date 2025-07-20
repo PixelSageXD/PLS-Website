@@ -22,7 +22,7 @@
     }
 </script>
 
-<div class={"playerCard"}>
+<div class={"playerCardGeneral"}>
     <img
       src={
         "players/" + player + ".png"
@@ -34,6 +34,6 @@
       <strong>{nickname}</strong>
     </h2>
     <h5 class="text-center">({player})</h5>
-    <h6 class="text-center">{placement}</h6>
+    <h6 class="text-center">{seasons}</h6>
     <p class={blurb ? "py-10" : "mb-5"}>{blurb}</p>
 </div>
