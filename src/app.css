@@ -172,33 +172,6 @@ code {
 	transition: border-color 0.25s;
 }
 
-.teamCard {
-	border-radius: 8px;
-	border: 1px solid transparent;
-	/* padding: 1.25rem; */
-	font-size: 1em;
-	font-weight: 500;
-	font-family: inherit;
-	background-color: var(--secondary);
-	transition: border-color 0.25s;
-	display: grid;
-	grid-auto-flow: column;
-	grid-gap: 20px;
-	align-items: stretch;
-	/* grid-template-columns: 1fr 1fr; */
-	margin-bottom: 2rem;
-	margin-left: 30px;
-	margin-right: 30px;
-}
-
-.teamCard .playerCard {
-	padding: 0px;
-	border: none;
-	border-radius: none;
-	margin: 1.25rem;
-	background-color: none;
-}
-
 .playerGrid {
 	display: grid;
 	/* grid-auto-flow: row dense; */

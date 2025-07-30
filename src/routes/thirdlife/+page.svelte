@@ -1,93 +1,64 @@
-<script>
-    import Playercard from '$lib/components/playercard.svelte';
-    import PlayercardGeneral from '$lib/components/playercardGeneral.svelte';
-	import Teamcard from '$lib/components/teamcard.svelte';
-    import {TeamCard, PlayerCard, PlayercardGeneral, players} from '$lib/index'
+<script lang="ts">
+    import PlayerCard from '$lib/components/playerCard.svelte';
+    import PlayerCardGeneral from '$lib/components/playerCardGeneral.svelte';
+	import TeamCard from '$lib/components/teamCard.svelte';
+    import generalData from '$lib/data/general.json';
+    import seasonData from '$lib/data/thirdlife/players.json';
+    import teamData from '$lib/data/thirdlife/teams.json';
 
-    const Lives = [
-        {name:"pixlsage",
-        lives:0,
-        placement:"5th"},
-        {name:"FeebleBrush162",
-        lives:0,
-        placement:"1st"},
-        {name:"Stack_o_nhoj",
-        lives:0,
-        placement:"12th"},
-        {name:"Tofu_Beans",
-        lives:0,
-        placement:"7th"},
-        {name:"oblivizin",
-        lives:0,
-        placement:"4th"},
-        {name:"SaviMatteo2810",
-        lives:0,
-        placement:"6th"},
-        {name:"Sherbiscute",
-        lives:0,
-        placement:"3rd"},
-        {name:"RtxEric",
-        lives:0,
-        placement:"8th"},
-        {name:"wolfiegames101",
-        lives:0,
-        placement:"11th"},
-        {name:"Bosph",
-        lives:0,
-        placement:"2nd"},
-        {name:"r0cie",
-        lives:0,
-        placement:"13th"},
-        {name:"Daedreamerz",
-        lives:0,
-        placement:"10th"},
-        {name:"_just_Andi_",
-        lives:0,
-        placement:"9th"}
-    ]
+    const playerData = seasonData.map(seasonPlayer => {
+      const generalInfo = generalData.find(g => g.name === seasonPlayer.name);
 
-    const Teams = [
-        {teamName: "The Transformers", players:["Tofu_Beans","oblivizin"]},
-        {teamName: "The Introverts", players:["wolfiegames101","RtxEric","SaviMatteo2810","Sherbiscute"]},
-        {teamName: "Last Minute Alliance", players:["r0cie","Daedreamerz","_just_Andi_"]},
-        {teamName: "The Businessmen", players:["pixlsage","FeebleBrush162","Stack_o_nhoj"]},
-        {teamName: "The Widows (Session 8+)", players:["oblivizin","Sherbiscute","SaviMatteo2810"]}
-    ]
+      return {
+        name: seasonPlayer.name,
+        nickname: generalInfo?.nickname ?? "",
+        lives: seasonPlayer.lives,
+        placement: seasonPlayer.placement,
+        seasons: generalInfo?.seasons ?? "",
+      };
+    });
 
-    /**
-	 * @param {string} playerName
-	 */
-    function getData(playerName) {
-        let player = Lives.find(player => player.name === playerName);
-        return player
+    function getPlayer(name: string) {
+        return playerData.find(p => p.name === name);
     }
 </script>
 
-<div class="text-center logo mb-10">
-    <img src="thirdlife_outlined.svg" class="size-1/5 m-auto" alt="third life logo">
-  </div>
-  <br>
-  <div class="info">
-  <h2 class="text-4xl">
-    <strong>Info:</strong>
-  </h2>
-  <h2 class="text-xl">Start Date: 24th Feb 2024</h2>
-  <h2 class="text-xl">End Date: 4th May 2024</h2>
-  <h2 class="text-xl">Winner: Ben (FeebleBrush162)</h2>
-  </div>
+<div style="margin: 2rem;">
+    <div class="text-center logo mb-10">
+        <img src="thirdlife_outlined.svg" class="size-1/5 m-auto" alt="third life logo">
+    </div>
+    <br>
+    <div class="info">
+    <h2 class="text-4xl">
+        <strong>Info:</strong>
+    </h2>
+    <h2 class="text-xl">Start Date: 24th Feb 2024</h2>
+    <h2 class="text-xl">End Date: 4th May 2024</h2>
+    <h2 class="text-xl">Winner: Ben (FeebleBrush162)</h2>
+    </div>
 
-  <div class="playerGrid m-10">
-    {#each Lives as {name,lives}}
-        <PlayerCardGeneral player="{name}" nickname="{players[name]["nickname"]}" lives={lives} seasons={players[name][seasons]}></PlayerCard>
-    {/each}
-  </div>
+    <div class="playerGrid m-10">
+        {#each playerData as player}
+            <PlayerCardGeneral
+                name={player.name}
+                nickname={player.nickname}
+                lives={player.lives}
+                seasons={player.seasons}
+            />
+        {/each}
+    </div>
 
-  <div class="teams">
-    {#each Teams as team}
-        <Teamcard teamName={team.teamName}>
-            {#each team.players as player}
-                <PlayerCard player={player} nickname={players[player]["nickname"]} lives={getData(player)?.lives} placement={players[name][placements][0]}></PlayerCard>
-            {/each}
-        </Teamcard>
+    <div class="teams">
+    {#each teamData as team}
+        <TeamCard teamName={team.teamName}>
+        {#each team.players as playerName}
+            {#if getPlayer(playerName)}
+            <PlayerCard {...getPlayer(playerName)}/>
+            {:else}
+            <p>Player not found: {playerName}</p>
+            {/if}
+        {/each}
+        </TeamCard>
     {/each}
-  </div>
+    </div>
+</div>
