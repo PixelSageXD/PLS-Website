@@ -4,7 +4,7 @@
 
 <div class="nav">
     <a href="/">
-        <img src="lifeseries_outlined.svg" class="size-1/2 w-[160px]" alt="home">
+        <img src="lifeseries_outlined.png" class="size-1/2 w-[160px]" alt="home">
     </a>
 </div>
 <div class="container">

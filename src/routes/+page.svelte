@@ -1,5 +1,5 @@
 <div class="text-center">
-    <img src="lifeseries_outlined.svg" class="size-1/5 m-auto" alt="life series logo">
+    <img src="lifeseries_outlined.png" class="size-1/5 m-auto" alt="life series logo">
 </div>
 <br>
 <p class="text-center">
@@ -10,25 +10,25 @@ people included in the many series.
 <div class="cardGrid m-10">
     <a href="/thirdlife">
       <button class="p-5">
-        <img src="thirdlife_outlined.svg" class="size-2/3 m-auto" alt="third life logo">
+        <img src="thirdlife_outlined.png" class="size-2/3 m-auto" alt="third life logo">
         <p class="text-center mt-2 bungee">Third Life</p>
       </button>
     </a>
     <a href="/lastlife">
       <button class="p-5">
-        <img src="lastlife_outlined.svg" class="size-2/3 m-auto" alt="last life logo">
+        <img src="lastlife_outlined.png" class="size-2/3 m-auto" alt="last life logo">
         <p class="text-center mt-2 bungee">Last Life</p>
       </button>
     </a>
     <a href="/doublelife">
       <button class="p-5">
-        <img src="doublelife_outlined.svg" class="size-2/3 m-auto" alt="double life logo">
+        <img src="doublelife_outlined.png" class="size-2/3 m-auto" alt="double life logo">
         <p class="text-center mt-2 bungee">Double Life</p>
       </button>
     </a>
     <a href="/limitedlife">
       <button class="p-5">
-        <img src="limitedlife_outlined.svg" class="size-2/3 m-auto" alt="limited life logo">
+        <img src="limitedlife_outlined.png" class="size-2/3 m-auto" alt="limited life logo">
         <p class="text-center mt-2 bungee">Limited Life</p>
       </button>
     </a>
