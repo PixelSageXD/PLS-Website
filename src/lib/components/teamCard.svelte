@@ -4,7 +4,7 @@
 
 <div class="teamCard">
     <h1 class="text-3xl md:text-5xl lg:text-5xl pb-5 bungee text-gray-200 text-center">{teamName}</h1>
-    <div class="TeamCard grid grid-cols1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+    <div class="TeamCard grid grid-cols2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
         <slot></slot>
     </div>
 </div>

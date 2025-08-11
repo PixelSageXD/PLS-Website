@@ -8,6 +8,12 @@ This website has been made to show the
 people included in the many series.
 </p>
 <div class="cardGrid m-10">
+    <a href="/miniseasons">
+      <button class="p-5">
+        <img src="lifeseries_outlined.png" class="size-2/3 m-auto" alt="life series logo">
+        <p class="text-center mt-2 bungee">Mini-Seasons</p>
+      </button>
+    </a>
     <a href="/thirdlife">
       <button class="p-5">
         <img src="thirdlife_outlined.png" class="size-2/3 m-auto" alt="third life logo">
