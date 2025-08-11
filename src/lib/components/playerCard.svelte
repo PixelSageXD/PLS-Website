@@ -25,8 +25,8 @@
 
 <div class={"PlayerCard"}>
     <img
-      src={`players/${name}.png`}
-      on:error={(e) => e.target.src = 'players/placeholder.png'}
+      src={`/players/${name}.png`}
+      on:error={(e) => e.target.src = '/players/placeholder.png'}
       class={`h-36 mx-auto mt-5 mb-10 drop-shadow-[0_35px_35px_rgba(0,0,0,0.6)] ${getPlayerColour(lives)}`}
       alt={nickname}
     />
