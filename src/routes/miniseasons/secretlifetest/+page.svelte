@@ -29,7 +29,7 @@
     <h2 class="text-4xl">
         <strong>Info:</strong>
     </h2>
-    <h2 class="text-xl">Start Date: N/A</h2>
+    <h2 class="text-xl">Start Date: 30th August 2025</h2>
     <h2 class="text-xl">End Date: N/A</h2>
     <h2 class="text-xl">Winner: N/A</h2>
     </div>
