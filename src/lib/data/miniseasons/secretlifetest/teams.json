@@ -1,6 +1,14 @@
 [
     {
-        "teamName": "PLACEHOLDER",
-        "players": ["pixlsage"]
+        "teamName": "The Coasters",
+        "players": ["SaviMatteo2810", "Sherbiscute"]
+    },
+    {
+        "teamName": "Alliance of Despair",
+        "players": ["Genius_3", "DBSJuly", "Kiorsai"]
+    },
+    {
+        "teamName": "The Three Musketeers",
+        "players": ["purplecuts", "hazelishere", "LilLiker"]
     }
 ]

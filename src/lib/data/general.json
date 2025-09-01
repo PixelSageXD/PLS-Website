@@ -2,7 +2,7 @@
     {
         "name": "pixlsage",
         "nickname": "Pixel",
-        "seasons": "S1-4"
+        "seasons": "S1-4, MS1"
     },
     {
         "name": "FeebleBrush162",
@@ -12,12 +12,12 @@
     {
         "name": "Stack_o_nhoj",
         "nickname": "John",
-        "seasons": "S1-4"
+        "seasons": "S1-4, MS1"
     },
     {
         "name": "SaviMatteo2810",
         "nickname": "Savi",
-        "seasons": "S1-4"
+        "seasons": "S1-4, MS1"
     },
 
     {
@@ -33,7 +33,7 @@
     {
         "name": "Sherbiscute",
         "nickname": "Rei",
-        "seasons": "S1-4"
+        "seasons": "S1-4, MS1"
     },
     {
         "name": "RtxEric",
@@ -61,14 +61,14 @@
         "seasons": "S1"
     },
     {
-        "name": "Bosph",
+        "name": "Hobbbs",
         "nickname": "Bosph",
-        "seasons": "S1-4"
+        "seasons": "S1-4, MS1"
     },
     {
         "name": "Genius_3",
         "nickname": "Genius",
-        "seasons": "S2-4"
+        "seasons": "S2-4, MS1"
     },
     {
         "name": "MxPotoo",
@@ -113,7 +113,7 @@
     {
         "name": "BloxySaurus",
         "nickname": "Bloxy",
-        "seasons": "S2-4"
+        "seasons": "S2-4, MS1"
     },
     {
         "name": "bopperollz",
@@ -128,7 +128,7 @@
     {
         "name": "DBSJuly",
         "nickname": "July",
-        "seasons": "S3-4"
+        "seasons": "S3-4, MS1"
     },
     {
         "name": "webcodes",
@@ -154,5 +154,25 @@
         "name": "Outcast7651",
         "nickname": "Outcast",
         "seasons": "S4"
+    },
+    {
+        "name": "purplecuts",
+        "nickname": "Purple",
+        "seasons": "MS1"
+    },
+    {
+        "name": "Kiorsai",
+        "nickname": "Ghost",
+        "seasons": "MS1"
+    },
+    {
+        "name": "hazelishere",
+        "nickname": "Hazel",
+        "seasons": "MS1"
+    },
+    {
+        "name": "LilLiker",
+        "nickname": "L",
+        "seasons": "MS1"
     }
 ]

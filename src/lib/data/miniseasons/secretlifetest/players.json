@@ -3,5 +3,60 @@
         "name": "pixlsage",
         "lives": 3,
         "placement": "Alive"
+    },
+    {
+        "name": "Stack_o_nhoj",
+        "lives": 3,
+        "placement": "Alive"
+    },
+    {
+        "name": "SaviMatteo2810",
+        "lives": 3,
+        "placement": "Alive"
+    },
+    {
+        "name": "Sherbiscute",
+        "lives": 3,
+        "placement": "Alive"
+    },
+    {
+        "name": "Hobbbs",
+        "lives": 3,
+        "placement": "Alive"
+    },
+    {
+        "name": "Genius_3",
+        "lives": 2,
+        "placement": "Alive"
+    },
+    {
+        "name": "BloxySaurus",
+        "lives": 3,
+        "placement": "Alive"
+    },
+    {
+        "name": "DBSJuly",
+        "lives": 1,
+        "placement": "Alive"
+    },
+    {
+        "name": "purplecuts",
+        "lives": 1,
+        "placement": "Alive"
+    },
+    {
+        "name": "Kiorsai",
+        "lives": 1,
+        "placement": "Alive"
+    },
+    {
+        "name": "hazelishere",
+        "lives": 3,
+        "placement": "Alive"
+    },
+    {
+        "name": "LilLiker",
+        "lives": 3,
+        "placement": "Alive"
     }
 ]
