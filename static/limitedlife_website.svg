@@ -1,0 +1,60 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 225" width="375" height="225">
+	<title>limitedlife outlined psd</title>
+	<defs>
+		<image  width="168" height="36" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAAkCAYAAAAdOXEXAAAAAXNSR0IB2cksfwAACWxJREFUeJztXAeMVUUUXUDARVhcpSgWFBB7KEoRNCpi1KCgBkSNumrsWBNEQRRj7y2WCJgFCxoxmN2gqLALAoquvSFWLKCiYFew4PGenbdxePvKfe/P+7sr/yYnxtWZO3PnvJm5ZX5RUUEK0tgFwI6CoYIrU2CSYILgTMHRgv6CNoJmGY6X2DNmXBdyLIq+2M85Ef1cIdhV0NLXbnvBiSltpsHhgvaWvmaCTp6tw9pcJjhU0CILuwfYjthU0E1woOAkwXiPE0nnu7ugVZiik72FqEyBCsEswYOCewXXCs4SHCnoTSO7Jqu3WOfFjOtRj6Shi+V9SKMFD8fMj0TsaLVrKThAMDWlzTS4WtDH0rmZ4GDP1mFtnvQI0tWlvQPs1lywpWCw4FRP582CB7zxVaSY72m2jf0KXxUshzv5S/CR4BHBGYI9BG0cG+jDmDGsF7wuKI3oh19+uWI+zwj6Wu22gNmt/kljHKUsF4yxdHLHvlfR7hXBSFe2DrAZP5ReMBvEHMEvjub7oqB3mNKvBD84UhQkXEh+WTnvpDDHCnew7xV63xf0iOirj+AJRT9vCva12m0nuCmVJfTC9Zho6ewO3ViXCs7K1c4hdudVhyflnxnM9xPBwDDlK5EtQSlrBSWODOWKoH2hW/Q3UCAobX6VYFVG8/0UDUxQyjBHxuIRryHoMkHPiH72htnZ44RXhcFWu42RoDxt5mQ430iCZn3E18k4R8bSEpTHxpCIfg4RVCv6eUmwj9VuYyRomeDt7KbbOAh6jyNjkaDLFfp+FEwN6aM1THhDc2RVCfa22uaDoGsE4y2dDU3QC2Ac36yETu+AMOX5IuhDcOMokaDPKvTRk/9ccJxgE18fxwtqBH8r+pkM66oAQ9Ab0xgggTCyMtrS2dAEHQe3kR6/zEDYdQzmDqo5MtkJF/ZQD8Ng4mD8uybkMlPQ1oGxGAcdq5w4PU7eIXvCI6n8sx9MrO43RXuSvAwbBs2TEHQ1/rNXEgwQdLJ0NjRBLxV8ppzzN4LbYUitAWOgjJkXhynXEpTB4y5WO+5k7QQHQXc/oUOypQNjEcx+rVMajCRl4H6IB8ZnVyvb8nhn3K+5pT/JEb8y1/l6OhuaoAzGf66c82yYD6yzEiW2fYOUa734DQhqteeCabxhZjo6ODSa9oumcLecB0M4zcdI4f30GPjCYygQNE4WCvq5VK4l6DUIJug2MLtSnJCgwemsdOO+A9nF5ZgNuwEBHxSSEZQ79f4K7IawI66oyRGUGwAD+jy6WZ/BPD2PcGbDeOIm80Ogd5KiCDpD0d41QVnowZ3bVbqtTkjO52BIUS+Xj2QE5TXkKQWmwKSEA2sH0PAEvQTJTix4/z+dPcZP6SDfhv8Ki0YJBgk6IOp495TnStCuMPnqOHF6xHu6RwqWwJDKhbCfD2CquwKra5CNF09njNGGzUJ0NjRBLxJ87GCedKbXen2xSITEp61Z3xBMVOidpFtg8rGlHljRwt3zCOi2fydOkm/srQQXwwTlXRRvfA3zlYceQ8guzHQuQuwDQ9CZij4iCSr/bXOYDaV7AFg8w/VklMTfjtGadxzPt06YSuZ1gA5TfbvLH1dAR1B6ZyTD6R7OhnGcligHwh0g53x8wPhpVJa+uShi4NFeDN8C+fRlFahnhVDgCQMHBJW/bwITJrxVcH8AWC11OczG42/LUr+FjudrC30JniD1+YH8Bep5Tw0uSs1BpM+2guthMke5Chfp/0rQrQVvxbT/Dqb+tbmvbRcYR9jVVSpInoaJUdcbeL6KRZykOn1jbwFzNC5zNEYGmUd5/YbpbOwEPTOkDxZ8xNmJPJiEYOeQdmZKMqs6WDqULCBv5VecL4Kel5yC0QJzwV4Ed0ajs/IlzF07zKNuKILm5CTBVG9pCMoahSCC8ujnvH9OPcN4YTirn19xvo744IrplCL97QCTslzreJw8xl4WbIWAS7v8bVtk4ySdgJBUMBoHQZk5pE3of9A+mjqGpHKn4Di/4nzsoPSyW6fkYqDAXOy1Kcuk8ofgPkHnAL0k6A3Kfui4vRIDOpncmXogJNSCRkBQrw+SlO/MdhEcBRPbZJzzXcGvyP0kKxdc4Fea9Q76hWBSCg5GCgzp1yvHQMIxIM547RplG5Kf4ZVSn94kYaZvYe5+UWCun6QPdSDRSAhq9UWi8n0Ss0PMgu0l2E8wAiYQz+gOics10tZMUBjQH+tXlhVBefQy980B76CnXrTAFIvsBP3EeWQzhrsPjJfIFOkKZVuW5PFpSJMvFoFDgob0XxeXLvVsRH18Pk3vX7tWORGUL+8YQ5tggZdaZgPOhwm2HgsTuN8XmjRWCoG+HpTHK48eOlItfH1wjIzrae5RTEPubLVNmos/KAV4hG5q6dR68UyY3BHU57x58yZPnz59TXl5OaZNm4ZZs2ahqqoKCxYswPz582tRWVn5x9ChQ18oLi7eXtS2sPQzhsqdckjCeRwGE6PWlDZSciLoXYh4hJYvgb6injG9q0P6YOx0IozHHif8GPay2ibNxT+bAtzx+1s6tQTlPXBpUJ+rVq16r6amZt3ixYuxaNGiWmJWV1fXknTu3Lm1qKioWDdixIjqkpIS1kzYpwaLPfj2/ZmE85gPfZEJpRw53EEbE0E190jG7HpF9MPCYM2bJDoxA612+XjywXv7+ZZO7RGfqwQe8fLvY+Au1hwldwtO8i9UkyEozD2HQXRNapa546gfbtC+6nwNTedVpwu9QQTlVS5pNVMaYap1cJFPeVMjqPZdPAnaPqKv/+MPN7jQG0bQJEd1GuE9lfn4DWPBKBA0TgoEzQ9BnxcMClqoAkGjpUDQ7I94pk/LELReKBA0TgoEzX4H5etO1oMGLhQ9Ro1XzKek3dxQLZ3AEFT7yyJ8aRr6q3owGZzHFf0wHTnIasf60+sV7XIRxk/tH25gMfFjGeuk1H4YqF9ul8W7eGYBuUasQQiPmcNE+l+M6YxbMEMN7RzwLCeBIejsmPH+hJgfivCMwnjj7zF9+X+4gfWizI5lmR5mBmuUpbMjDEm0qd00wjw6NysmNpr5bDUc5ieA0goTItwEmThhUTiTH2Uwz8cZk458dswFWBCjgMXArGIJfXmYL4F5khC383GHnRLTD4serkN8loNXm+5WO6bzToE+p59GFguGWzpZ6sZsXRYVRHVCgvKeyR+m9RP0EG9MaYXpZtYl8BEdQ3usZWCmKTKl+i8J1TcrPtgGYgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 20 } 
+		.t1 { font-size: 72px;fill: #000000;font-weight: 400;font-family: "Bungee-Regular", "Bungee" } 
+		.s2 { fill: #000000;stroke: #ffffff;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 20 } 
+		.s3 { fill: #000000 } 
+		.t4 { font-size: 45px;fill: #ffffff;font-weight: 400;font-family: "Bungee-Regular", "Bungee" } 
+		.s5 { fill: #ffffff } 
+		.s6 { fill: #ffffff;stroke: #000000;stroke-miterlimit:100;stroke-width: 5 } 
+		.s7 { fill: #000000;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.4 } 
+		.s8 { fill: #c1272d } 
+		.s9 { fill: #000000;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5 } 
+	</style>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m328.13 79.7v53.61h-314.13v-53.61z"/>
+	<path id="Shape 1 copy" fill-rule="evenodd" class="s0" d="m268.64 140.53v53.61h-254.64v-53.61z"/>
+	<text id="life outline ver" style="transform: matrix(1.031,0,0,1.031,9.876,194.138);paint-order:stroke fill markers;stroke: #ffffff;stroke-width: 20;stroke-linejoin: round;" >
+		<tspan x="0" y="0" class="t1">l</tspan><tspan  y="0" class="t1">i</tspan><tspan  y="0" class="t1">f</tspan><tspan  y="0" class="t1">e
+</tspan>
+	</text>
+	<text id="limited outline ver" style="transform: matrix(1.031,0,0,1.031,9.876,133.312);paint-order:stroke fill markers;stroke: #ffffff;stroke-width: 20;stroke-linejoin: round;" >
+		<tspan x="0" y="0" class="t1" dx="0" >l</tspan><tspan  y="0" class="t1" dx="0" >i</tspan><tspan  y="0" class="t1" dx="0" >m</tspan><tspan  y="0" class="t1" dx="0" >i</tspan><tspan  y="0" class="t1" dx="0" >t</tspan><tspan  y="0" class="t1" dx="0" >e</tspan><tspan  y="0" class="t1" dx="0 -2" >d
+</tspan>
+	</text>
+	<path id="pixels box outline ver" class="s2" d="m25.34 23h157.74c5.67 0 10.31 4.64 10.31 10.31v27.84c0 5.67-4.64 10.3-10.31 10.3h-157.74c-5.67 0-10.31-4.63-10.31-10.3v-27.84c0-5.67 4.64-10.31 10.31-10.31z"/>
+	<text id="life" style="transform: matrix(1.031,0,0,1.031,9.876,194.138)" >
+		<tspan x="0" y="0" class="t1">l</tspan><tspan  y="0" class="t1">i</tspan><tspan  y="0" class="t1">f</tspan><tspan  y="0" class="t1">e
+</tspan>
+	</text>
+	<text id="LIMITED" style="transform: matrix(1.031,0,0,1.031,9.876,133.312)" >
+		<tspan x="0" y="0" class="t1" dx="0" >L</tspan><tspan  y="0" class="t1" dx="0" >I</tspan><tspan  y="0" class="t1" dx="0" >M</tspan><tspan  y="0" class="t1" dx="0" >I</tspan><tspan  y="0" class="t1" dx="0" >T</tspan><tspan  y="0" class="t1" dx="0" >E</tspan><tspan  y="0" class="t1" dx="0" >D</tspan><tspan  y="0" class="t1" dx="0" >
+</tspan>
+	</text>
+	<g id="pixel's">
+		<path id="pixels box" class="s3" d="m25.34 23h157.74c5.67 0 10.31 4.64 10.31 10.31v27.84c0 5.67-4.64 10.3-10.31 10.3h-157.74c-5.67 0-10.31-4.63-10.31-10.3v-27.84c0-5.67 4.64-10.31 10.31-10.31z"/>
+		<g id="i">
+			<text id="i" style="transform: matrix(1.031,0,0,1.031,44.928,63.207)" >
+				<tspan x="0" y="0" class="t4">i
+</tspan>
+			</text>
+			<path id="i right coverup" fill-rule="evenodd" class="s3" d="m70.7 29.19v34.02h-7.21v-34.02z"/>
+			<path id="i left coverup" fill-rule="evenodd" class="s3" d="m54.21 29.19v34.02h-7.22v-34.02z"/>
+		</g>
+		<use id="p  xels" href="#img1" x="22" y="28"/>
+		<path id="L coverup" fill-rule="evenodd" class="s3" d="m156.27 44.65v9.28h-11.34v-9.28z"/>
+		<path id="apostrophe" class="s5" d="m150.6 46.51h-0.82c-1.03 0-1.65-1.04-1.34-1.96l1.54-3.82c0.31-0.72-0.31-1.54-1.13-1.54-0.62 0-1.14-0.52-1.14-1.14v-4.43c0-0.83 0.62-1.44 1.45-1.44h4.53c0.83 0 1.45 0.61 1.45 1.44v4.84q0 0.31-0.11 0.62l-3.09 6.6c-0.31 0.52-0.72 0.83-1.34 0.83z"/>
+	</g>
+	<g id="clock">
+		<path id="clock outline" fill-rule="evenodd" class="s6" d="m235.65 200.32c-15.96 0-28.86-12.9-28.86-28.86 0-15.97 12.9-28.87 28.86-28.87 15.97 0 28.87 12.9 28.87 28.87 0 15.96-12.9 28.86-28.87 28.86z"/>
+		<path id="extra bit" fill-rule="evenodd" class="s7" d="m262.72 145.28l-3.87 5.14-8.57-6.45 3.88-5.15z"/>
+		<path id="heart" class="s8" d="m253.28 161.41c3.1 3.11 3.1 8.18 0 11.29l-16.93 16.93-16.93-16.93c-3.1-3.11-3.1-8.18 0-11.29 3.11-3.1 8.19-3.1 11.29 0l5.64 5.64 5.64-5.64c3.11-3.1 8.19-3.1 11.29 0z"/>
+		<path id="minute hand" class="s9" d="m236.69 150.84v21.65h-1.04v-21.65zm0 0v21.65h-1.03v-21.65z"/>
+		<path id="hour hand" class="s9" d="m248.37 186.5l-12.29-14.11 0.68-0.59 12.28 14.12zm0 0l-12.28-14.12 0.67-0.58 12.28 14.11z"/>
+		<path id="small lines" class="s7" d="m235.14 144.68h1.03v2.28h-1.03zm26.81 24.4v1.03h-2.76v-1.03zm-25.78 27.85h-1.04v-2.56h1.04zm-26.19-24.96v-1.03h2.71v1.03z"/>
+	</g>
+</svg>

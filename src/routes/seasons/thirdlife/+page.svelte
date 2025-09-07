@@ -3,8 +3,8 @@
     import PlayerCardGeneral from '$lib/components/playerCardGeneral.svelte';
 	import TeamCard from '$lib/components/teamCard.svelte';
     import generalData from '$lib/data/general.json';
-    import seasonData from '$lib/data/miniseasons/secretlifetest/players.json';
-    import teamData from '$lib/data/miniseasons/secretlifetest/teams.json';
+    import seasonData from '$lib/data/thirdlife/players.json';
+    import teamData from '$lib/data/thirdlife/teams.json';
 
     const playerData = seasonData.map(seasonPlayer => {
       const generalInfo = generalData.find(g => g.name === seasonPlayer.name);
@@ -24,14 +24,17 @@
 </script>
 
 <div style="margin: 2rem;">
+    <div class="text-center logo mb-10">
+        <img src="thirdlife_website.svg" class="size-1/5 m-auto" alt="third life logo">
+    </div>
     <br>
     <div class="info">
     <h2 class="text-4xl">
         <strong>Info:</strong>
     </h2>
-    <h2 class="text-xl">Start Date: 30th August 2025</h2>
-    <h2 class="text-xl">End Date: N/A</h2>
-    <h2 class="text-xl">Winner: N/A</h2>
+    <h2 class="text-xl">Start Date: 24th Feb 2024</h2>
+    <h2 class="text-xl">End Date: 4th May 2024</h2>
+    <h2 class="text-xl">Winner: Ben (FeebleBrush162)</h2>
     </div>
 
     <div class="playerGrid m-10">

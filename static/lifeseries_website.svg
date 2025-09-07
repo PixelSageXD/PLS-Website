@@ -1,0 +1,69 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 225" width="375" height="225">
+	<title>lifeseries outlined psd</title>
+	<defs>
+		<image  width="187" height="40" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff;stroke: #ffffff;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 20 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #000000;stroke: #ffffff;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 20 } 
+		.s3 { fill: #fbb03b;stroke: #ffffff;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 20 } 
+		.s4 { fill: #8cc63f;stroke: #ffffff;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 20 } 
+		.s5 { fill: #c1272d;stroke: #ffffff;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 20 } 
+		.t6 { font-size: 72px;fill: #000000;font-weight: 400;font-family: "Bungee-Regular", "Bungee" } 
+		.s7 { fill: #fbb03b } 
+		.s8 { fill: #8cc63f } 
+		.s9 { fill: #c1272d } 
+		.s10 { fill: #000000 } 
+		.t11 { font-size: 45px;fill: #ffffff;font-weight: 400;font-family: "Bungee-Regular", "Bungee" } 
+	</style>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m308.46 151.25v60.89l-296.75-1.92v-60.88z"/>
+	<path id="Shape 1 copy" fill-rule="evenodd" class="s0" d="m218.7 81.22v60.88h-207.24v-60.88z"/>
+	<path id="Shape 2" fill-rule="evenodd" class="s1" d="m283.88 64.99l23.92 22.41-24.87 26.56-23.93-22.42z"/>
+	<path id="pixels box outline ver" class="s2" d="m23.17 16.82h179.14c6.44 0 11.71 5.27 11.71 11.71v31.61c0 6.44-5.27 11.71-11.71 11.71h-179.14c-6.44 0-11.71-5.27-11.71-11.71v-31.61c0-6.44 5.27-11.71 11.71-11.71z"/>
+	<g id="hearts outline vers">
+		<path class="s3" d="m287.78 124.54c0 7.73-6.32 14.05-14.05 14.05h-42.15v-42.15c0-7.73 6.32-14.05 14.05-14.05 7.73 0 14.05 6.32 14.05 14.05v14.05h14.05c7.73 0 14.05 6.32 14.05 14.05z"/>
+		<path class="s4" d="m355.69 124.54c0 7.73-6.32 14.05-14.05 14.05h-42.15v-42.15c0-7.73 6.32-14.05 14.05-14.05 7.73 0 14.05 6.32 14.05 14.05v14.05h14.05c7.73 0 14.05 6.32 14.05 14.05z"/>
+		<path class="s5" d="m287.78 60.14c0 7.73-6.32 14.05-14.05 14.05h-42.15v-42.15c0-7.73 6.32-14.05 14.05-14.05 7.73 0 14.05 6.32 14.05 14.05v14.05h14.05c7.73 0 14.05 6.32 14.05 14.05z"/>
+	</g>
+	<g id="life series outline vers">
+		<text id="series" style="transform: matrix(1.171,0,0,1.171,6.774,211.181);paint-order:stroke fill markers;stroke: #ffffff;stroke-width: 20;stroke-linejoin: round;" >
+			<tspan x="0" y="0" class="t6" dx="0" >s</tspan><tspan  y="0" class="t6" dx="0" >e</tspan><tspan  y="0" class="t6" dx="0" >r</tspan><tspan  y="0" class="t6" dx="0" >i</tspan><tspan  y="0" class="t6" dx="0" >e</tspan><tspan  y="0" class="t6" dx="0 4" >s
+</tspan>
+		</text>
+		<text id="life" style="transform: matrix(1.171,0,0,1.171,5.603,142.1);paint-order:stroke fill markers;stroke: #ffffff;stroke-width: 20;stroke-linejoin: round;" >
+			<tspan x="0" y="0" class="t6">l</tspan><tspan  y="0" class="t6">i</tspan><tspan  y="0" class="t6">f</tspan><tspan  y="0" class="t6">e
+</tspan>
+		</text>
+	</g>
+	<g id="hearts">
+		<path class="s7" d="m287.78 124.54c0 7.73-6.32 14.05-14.05 14.05h-42.15v-42.15c0-7.73 6.32-14.05 14.05-14.05 7.73 0 14.05 6.32 14.05 14.05v14.05h14.05c7.73 0 14.05 6.32 14.05 14.05z"/>
+		<path class="s8" d="m355.69 124.54c0 7.73-6.32 14.05-14.05 14.05h-42.15v-42.15c0-7.73 6.32-14.05 14.05-14.05 7.73 0 14.05 6.32 14.05 14.05v14.05h14.05c7.73 0 14.05 6.32 14.05 14.05z"/>
+		<path class="s9" d="m287.78 60.14c0 7.73-6.32 14.05-14.05 14.05h-42.15v-42.15c0-7.73 6.32-14.05 14.05-14.05 7.73 0 14.05 6.32 14.05 14.05v14.05h14.05c7.73 0 14.05 6.32 14.05 14.05z"/>
+	</g>
+	<g id="life series">
+		<text id="series" style="transform: matrix(1.171,0,0,1.171,6.774,211.181)" >
+			<tspan x="0" y="0" class="t6" dx="0" >s</tspan><tspan  y="0" class="t6" dx="0" >e</tspan><tspan  y="0" class="t6" dx="0" >r</tspan><tspan  y="0" class="t6" dx="0" >i</tspan><tspan  y="0" class="t6" dx="0" >e</tspan><tspan  y="0" class="t6" dx="0 4" >s
+</tspan>
+		</text>
+		<text id="life" style="transform: matrix(1.171,0,0,1.171,5.603,142.1)" >
+			<tspan x="0" y="0" class="t6">l</tspan><tspan  y="0" class="t6">i</tspan><tspan  y="0" class="t6">f</tspan><tspan  y="0" class="t6">e
+</tspan>
+		</text>
+	</g>
+	<g id="pixel's">
+		<path id="pixels box" class="s10" d="m23.17 16.82h179.14c6.44 0 11.71 5.27 11.71 11.71v31.61c0 6.44-5.27 11.71-11.71 11.71h-179.14c-6.44 0-11.71-5.27-11.71-11.71v-31.61c0-6.44 5.27-11.71 11.71-11.71z"/>
+		<g id="i">
+			<text id="i" style="transform: matrix(1.171,0,0,1.171,45.412,62.483)" >
+				<tspan x="0" y="0" class="t11">i
+</tspan>
+			</text>
+			<path id="i right coverup" fill-rule="evenodd" class="s10" d="m74.68 23.84v38.64h-8.19v-38.64z"/>
+			<path id="i left coverup" fill-rule="evenodd" class="s10" d="m55.95 23.84v38.64h-8.2v-38.64z"/>
+		</g>
+		<use id="p  xels" href="#img1" x="20" y="23"/>
+		<path id="L coverup" fill-rule="evenodd" class="s10" d="m171.86 41.41v10.53h-12.88v-10.53z"/>
+		<path id="apostrophe" class="s1" d="m165.42 43.51h-0.93c-1.17 0-1.88-1.17-1.52-2.22l1.75-4.33c0.35-0.82-0.35-1.76-1.29-1.76-0.7 0-1.28-0.58-1.28-1.29v-5.03c0-0.94 0.7-1.64 1.64-1.64h5.15c0.93 0 1.64 0.7 1.64 1.64v5.5q0 0.35-0.12 0.7l-3.51 7.5c-0.35 0.58-0.82 0.93-1.53 0.93z"/>
+	</g>
+</svg>
