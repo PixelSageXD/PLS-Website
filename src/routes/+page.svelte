@@ -1,5 +1,5 @@
 <div class="text-center">
-    <img src="lifeseries_website.svg" class="size-1/5 m-auto" alt="life series logo">
+    <img src="lifeseries_website.png" class="size-1/5 m-auto" alt="life series logo">
 </div>
 <br>
 <p class="text-center">

@@ -25,7 +25,7 @@
 
 <div style="margin: 2rem;">
     <div class="text-center logo mb-10">
-        <img src="doublelife_website.svg" class="size-1/5 m-auto" alt="double life logo">
+        <img src="doublelife_website.png" class="size-1/5 m-auto" alt="double life logo">
     </div>
     <br>
     <div class="info">
