@@ -85,7 +85,7 @@
     }
 
     .mobile-li {
-        margin-left: 5px
+        margin-right: 3px
     }
 
     .nav-link {
