@@ -1,12 +1,12 @@
 [
     {
         "name": "pixlsage",
-        "lives": 3,
+        "lives": 2,
         "placement": "Alive"
     },
     {
         "name": "Stack_o_nhoj",
-        "lives": 3,
+        "lives": 2,
         "placement": "Alive"
     },
     {
@@ -26,18 +26,13 @@
     },
     {
         "name": "Genius_3",
-        "lives": 2,
-        "placement": "Alive"
-    },
-    {
-        "name": "BloxySaurus",
-        "lives": 3,
+        "lives": 1,
         "placement": "Alive"
     },
     {
         "name": "DBSJuly",
-        "lives": 1,
-        "placement": "Alive"
+        "lives": 0,
+        "placement": "11th"
     },
     {
         "name": "purplecuts",
@@ -46,8 +41,8 @@
     },
     {
         "name": "Kiorsai",
-        "lives": 1,
-        "placement": "Alive"
+        "lives": 0,
+        "placement": "10th"
     },
     {
         "name": "hazelishere",
