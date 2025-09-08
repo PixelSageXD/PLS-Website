@@ -33,16 +33,16 @@
         <div class="nav">
             <nav>
                 <ul>
-                    <li class="desktop-li">
+                    <li class="mobile-li">
                         <a href="/" class="nav-link" class:active={currentPath === '/'}>Home</a>
                     </li>
-                    <li class="desktop-li">
+                    <li class="mobile-li">
                         <a href="/seasons" class="nav-link" class:active={currentPath === '/seasons'}>Seasons</a>
                     </li>
-                    <li class="desktop-li">
+                    <li class="mobile-li">
                         <a href="/players" class="nav-link" class:active={currentPath === '/players'}>Players</a>
                     </li>
-                    <li class="desktop-li">
+                    <li class="mobile-li">
                         <a href="/videos" class="nav-link" class:active={currentPath === '/videos'}>Videos</a>
                     </li>
                 </ul>
@@ -53,20 +53,20 @@
     <div class="desktop-layout">
         <div class="nav">
             <a href="/">
-                <img src="lifeseries_website.png" class="size-1/2 w-[160px]" alt="home">
+                <img src="/lifeseries_website.png" class="size-1/2 w-[160px]" alt="home">
             </a>
             <nav>
                 <ul>
-                    <li>
+                    <li class="desktop-li">
                         <a href="/" class="nav-link" class:active={currentPath === '/'}>Home</a>
                     </li>
-                    <li>
+                    <li class="desktop-li">
                         <a href="/seasons" class="nav-link" class:active={currentPath === '/seasons'}>Seasons</a>
                     </li>
-                    <li>
+                    <li class="desktop-li">
                         <a href="/players" class="nav-link" class:active={currentPath === '/players'}>Players</a>
                     </li>
-                    <li>
+                    <li class="desktop-li">
                         <a href="/videos" class="nav-link" class:active={currentPath === '/videos'}>Videos</a>
                     </li>
                 </ul>

@@ -25,7 +25,7 @@
 
 <div style="margin: 2rem;">
     <div class="text-center logo mb-10">
-        <img src="thirdlife_website.png" class="size-1/5 m-auto" alt="third life logo">
+        <img src="/thirdlife_website.png" class="size-1/5 m-auto" alt="third life logo">
     </div>
     <br>
     <div class="info">

@@ -6,8 +6,25 @@
     <p>Username: pixlsage</p>
     <p>Former Name(s): PixelSageXD</p>
     <p>Pronouns: any/all</p>
-    <p>Seasons: All</p>
+    <p>Season(s): All</p>
   </div>
+</div>
+
+<br> <br>
+<h2 class="bungee text-3xl" style="text-align: center">Other Skins</h2>
+<div class="skin-list">
+  <figure class="skin">
+    <img src="/players/thirdlife/pixlsage.png" alt="third life skin">
+    <figcaption style="margin-top: 0.5rem">Third Life</figcaption>
+  </figure>
+  <figure class="skin">
+    <img src="/players/lastlife/pixlsage.png" alt="last life skin">
+    <figcaption style="margin-top: 0.5rem">Last Life</figcaption>
+  </figure>
+  <figure class="skin">
+    <img src="/players/doublelife/pixlsage.png" alt="double life skin">
+    <figcaption style="margin-top: 0.5rem">Double Life</figcaption>
+  </figure>
 </div>
 
 <div class="season-info">
@@ -88,6 +105,20 @@
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
   }
 
+  .skin-list {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+    gap: 1rem;
+    padding: 2rem;
+    margin: 0 auto;
+    max-width: 45%; /* 15% x number of extra skins (16% if one) */
+    text-align: center;
+    margin-top: 0.5rem;
+    background-color: #23232f;
+    box-shadow: 0 0 30px rgba(27, 22, 48, 0.3);
+  }
+
   .season-info {
     display: flex;
     align-items: center;
@@ -105,6 +136,19 @@
     padding-left:2.5rem;
     color: white;
     list-style-type: disc;
+  }
+
+  .skin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .skin img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
   }
 
   .profile-img {

@@ -15,12 +15,6 @@
         "seasons": "S1-4, MS1"
     },
     {
-        "name": "SaviMatteo2810",
-        "nickname": "Savi",
-        "seasons": "S1-4, MS1"
-    },
-
-    {
         "name": "Tofu_Beans",
         "nickname": "Tofu",
         "seasons": "S1"
@@ -29,6 +23,11 @@
         "name": "oblivizin",
         "nickname": "Nick",
         "seasons": "S1"
+    },    
+    {
+        "name": "SaviMatteo2810",
+        "nickname": "Savi",
+        "seasons": "S1-4, MS1"
     },
     {
         "name": "Sherbiscute",
