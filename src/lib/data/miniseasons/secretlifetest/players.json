@@ -6,7 +6,7 @@
     },
     {
         "name": "Stack_o_nhoj",
-        "lives": 2,
+        "lives": 1,
         "placement": "Alive"
     },
     {
@@ -21,13 +21,13 @@
     },
     {
         "name": "Hobbbs",
-        "lives": 3,
+        "lives": 2,
         "placement": "Alive"
     },
     {
         "name": "Genius_3",
-        "lives": 1,
-        "placement": "Alive"
+        "lives": 0,
+        "placement": "9th"
     },
     {
         "name": "DBSJuly",
@@ -51,7 +51,7 @@
     },
     {
         "name": "LilLiker",
-        "lives": 3,
+        "lives": 1,
         "placement": "Alive"
     }
 ]
