@@ -39,11 +39,11 @@
 
     <div class="playerGrid m-10">
         {#each playerData as player}
-            <PlayerCardGeneral
+            <PlayerCard
                 name={player.name}
                 nickname={player.nickname}
                 lives={player.lives}
-                seasons={player.seasons}
+                placement={player.placement}
             />
         {/each}
     </div>

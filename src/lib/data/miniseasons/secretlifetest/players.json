@@ -6,8 +6,8 @@
     },
     {
         "name": "Stack_o_nhoj",
-        "lives": 1,
-        "placement": "Alive"
+        "lives": 0,
+        "placement": "7th"
     },
     {
         "name": "SaviMatteo2810",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Hobbbs",
-        "lives": 2,
+        "lives": 1,
         "placement": "Alive"
     },
     {
@@ -36,8 +36,8 @@
     },
     {
         "name": "purplecuts",
-        "lives": 1,
-        "placement": "Alive"
+        "lives": 0,
+        "placement": "8th"
     },
     {
         "name": "Kiorsai",
